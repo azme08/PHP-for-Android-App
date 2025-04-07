@@ -1,0 +1,10 @@
+
+<?php
+
+$count1 = 100;
+$count2 = 300;
+
+$sum = $count1 + $count2;
+
+echo "The sum is: " . $sum;
+?>
